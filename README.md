@@ -4,7 +4,7 @@
 
 **#FUNCTION OF THIS MUSIC PLAYER**
 
-**1. Load Your folder (internally) music **
+**1. Load Your folder (internally) music**
 
 **2. Next Play**
 
