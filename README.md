@@ -1,6 +1,6 @@
 # MUSIC-PLAYER
 
-**Python Project 08 - MUSIC-PLAYER**
+**Python Project 08 - MUSIC - PLAYER**
 
 **#FUNCTION OF THIS MUSIC PLAYER**
 
